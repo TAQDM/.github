@@ -1,5 +1,3 @@
----
-
 # Welcome to TAQDM - Digital Solutions 🌟  
 **Delivering Innovation and Excellence in Digital Solutions Across MENA**  
 
